@@ -2,7 +2,7 @@
 
 	$from_name = "Your Name";        
     $from_address = "youremail@yourdomain.com";        
-    $to_name = "Receiver Name"        
+    $to_name = "Receiver Name";        
     $to_address = "receiveremail@yourdomain.com";          
 	$startTime = "04/15/2020 12:00:00";  
 	$endTime = "04/15/2020 12:30:00";    
