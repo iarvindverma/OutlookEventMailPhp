@@ -1,6 +1,6 @@
 <?php
 
-	$from_name = "SIP Awards";        
+	$from_name = "Your Name";        
     $from_address = "youremail@yourdomain.com";        
     $to_name = "Receiver Name"        
     $to_address = "receiveremail@yourdomain.com";          
